@@ -18,7 +18,7 @@
 |---|---|
 | Versión Java | Java SE 21 & JDK 21 (LTS) |
 | IDE/Editor Utilizado | NetBeans IDE |
-| Interaz Gráfica |  |
+| Interaz Gráfica | Jframe |
 
 ## Instructivo de Instalación, Compilación y Ejecución
 
@@ -40,4 +40,5 @@ Usando NetBeans:
 
 ### 3. Ejecución
 ...
+
 
