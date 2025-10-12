@@ -5,9 +5,9 @@
 | Nombre | Carné | Usuario Git | Correo Git |
 |---|---|---|---|
 | Carlos Eduardo Ramírez Wong | FI24037073 | CarlosRW | carlos.ramirezw23@gmail.com |
-| Allan David Soto Suárez | X |
-| Yirlania Córdoba Muñoz | X |
-| Jimena Hernández Martínez | X | 
+| Allan David Soto Suárez | FI24036133 |AllanSS213| allansotosuarez070@gmail.com |
+| Yirlania Córdoba Muñoz | FI23031490 |Yirlaniam/ | yirlania55@gmail.com |
+| Jimena Hernández Martínez | FH23013963 | FH23013963| jimenahm1204@gmail.com |
 
 ## IDEs Utilizados
 
@@ -40,3 +40,4 @@ Usando NetBeans:
 
 ### 3. Ejecución
 ...
+
