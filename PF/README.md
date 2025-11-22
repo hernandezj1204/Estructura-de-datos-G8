@@ -42,7 +42,7 @@ Selecciona "Run File".
 Esto abrirá la interfaz gráfica del juego y lo preparará para iniciar.
 
 - La interfaz mostrará el mensaje:
-- 
+
 “Juego listo. Haz click en BARAJAR”.
 En este punto el mazo está preparado, pero aún no barajado.
 
@@ -71,6 +71,7 @@ Esto permitirá deshacerte de la combinación actual y seguir jugando con las ca
 - Repite el proceso de seleccionar cartas, validar combinaciones y descartar hasta completar todos los sándwiches posibles o quedarte sin cartas útiles.
 
 - El juego termina cuando ya no puedes formar más sándwiches o cuando el mazo se ha agotado.****
+
 
 
 
